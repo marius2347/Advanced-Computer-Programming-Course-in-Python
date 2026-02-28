@@ -1,0 +1,9 @@
+Function my_function called with args: (10,), kwargs: {}
+Function my_function called with args: (1, 2), kwargs: {'a': 3, 'b': 4}
+Function my_function called with args: (), kwargs: {'name': {'first': 'John', 'last': 'Doe'}}
+Function my_function called with args: (10,), kwargs: {}
+Function my_function called with args: (1, 2), kwargs: {'a': 3, 'b': 4}
+Function my_function called with args: (), kwargs: {'name': {'first': 'John', 'last': 'Doe'}}
+Function my_function called with args: (10,), kwargs: {}
+Function my_function called with args: (1, 2), kwargs: {'a': 3, 'b': 4}
+Function my_function called with args: (), kwargs: {'name': {'first': 'John', 'last': 'Doe'}}
